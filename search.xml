@@ -2,32 +2,32 @@
 <search>
   <entry>
     <title><![CDATA[test5]]></title>
-    <url>%2F2018%2F06%2F21%2Ftest5%2F</url>
+    <url>%2Fposts%2Ftitle.html</url>
     <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[test4]]></title>
-    <url>%2F2018%2F06%2F21%2Ftest4%2F</url>
+    <url>%2Fposts%2Ftitle.html</url>
     <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[test3]]></title>
-    <url>%2F2018%2F06%2F21%2Ftest3%2F</url>
+    <url>%2Fposts%2Ftitle.html</url>
     <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[test2]]></title>
-    <url>%2F2018%2F06%2F21%2Ftest2%2F</url>
+    <url>%2Fposts%2Ftitle.html</url>
     <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[test1]]></title>
-    <url>%2F2018%2F06%2F21%2Ftest1%2F</url>
+    <url>%2Fposts%2Ftitle.html</url>
     <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F06%2F21%2FHello-World%2F</url>
+    <url>%2Fposts%2Ftitle.html</url>
     <content type="text"><![CDATA[用了两天搭建了自己的博客，第一次搭建博客的感觉很爽，希望自己能坚持下去！]]></content>
       <tags>
         <tag>Hello World</tag>
